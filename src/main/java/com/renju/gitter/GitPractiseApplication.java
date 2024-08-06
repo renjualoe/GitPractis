@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitPractiseApplication {
 
 	public static void main(String[] args) {
+		// renju main
 		SpringApplication.run(GitPractiseApplication.class, args);
 	}
 
